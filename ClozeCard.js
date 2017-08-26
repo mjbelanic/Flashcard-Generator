@@ -23,15 +23,9 @@ function ClozeCard(fullText, cloze){
 }
 
 
-var Card1 = new ClozeCard("Poland is a country." , "Poland");
-console.log(Card1.fullText)
-console.log(Card1.partialText);
-console.log(Card1.cloze);
+// var Card1 = new ClozeCard("George Washington was the first President of the United States." , "George Washington");
+// console.log(Card1.partialText);
+// console.log(Card1.fullText)
+// console.log(Card1.cloze);
 
-// var Card2 = new ClozeCard("The enemy is here." , "enemy");
-// console.log(Card2.frontside());
-// console.log(Card2.backside);
-
-// var Card3 = new ClozeCard("Ae Be C", "Be");
-// console.log(Card3.frontside());
-// console.log(Card3.backside);
+module.exports = ClozeCard;
