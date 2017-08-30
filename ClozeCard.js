@@ -22,10 +22,4 @@ function ClozeCard(fullText, cloze){
     this.partialText = this.getPartialText();
 }
 
-
-// var Card1 = new ClozeCard("George Washington was the first President of the United States." , "George Washington");
-// console.log(Card1.partialText);
-// console.log(Card1.fullText)
-// console.log(Card1.cloze);
-
 module.exports = ClozeCard;

@@ -17,6 +17,7 @@ if(cardType === "BasicCard"){
 if(cardType === "ClozeCard"){
     var card = new exportClozeCard(question, answer);
     console.log(card.fullText);
-    console.log(card.cloze);
     console.log(card.partialText)
+    console.log(card.cloze);
+    
 }
