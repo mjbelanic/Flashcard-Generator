@@ -1,0 +1,24 @@
+[{
+    "fullText" : "Texas is the second largest state in the US.",
+    "cloze": "Texas"
+},
+{
+    "fullText" : "Rhode Island is the only state to start with an R.",
+    "cloze": "Rhode Island"
+},
+{
+    "fullText" : "Lancing is the capital of Michigan.",
+    "cloze": "Lancing"
+},
+{
+    "fullText" : "Hawaii and Alaska are not a part of the mainland US.",
+    "cloze": "Hawaii"
+},
+{
+    "fullText" : "There are 4 states that border Mexico. (Do not spell out number)",
+    "cloze": "4"
+},
+{
+    "fullText" : "Salt Lake City is found in the state of Utah.",
+    "cloze": "Utah"
+}]

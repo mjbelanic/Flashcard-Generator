@@ -1,0 +1,19 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "This program creates flashcards based on user input",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjbelanic/Flashcard-Generator.git"
+  },
+  "author": "Matthew Belanic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjbelanic/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/mjbelanic/Flashcard-Generator#readme"
+}

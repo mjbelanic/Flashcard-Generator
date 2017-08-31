@@ -1,0 +1,40 @@
+[{
+    "frontSide": "What is the capital of California?",
+    "backSide": "Sacramento"
+},
+{
+    "frontSide" : "How many states border the Pacific Ocean?",
+    "backSide" : "5"
+},
+{
+    "frontSide" : "What is the capital of New York?",
+    "backSide" : "Albany"
+},
+{
+    "frontSide": "What is the largest state in the United States?",
+    "backSide": "Alaska"
+},
+{
+    "frontSide": "How many states border Canada?",
+    "backSide": "13"
+},
+{
+    "frontSide": "How many states start with the letter N?",
+    "backSide": "8"
+},
+{
+    "frontSide": "What state has one of the Great Lakes separating it?",
+    "backSide": "Michigan"
+},
+{
+    "frontSide": "How many states start with the word East?",
+    "backSide": "0"
+},
+{
+    "frontSide": "How many states are landlocked?",
+    "backSide": "16"
+},
+{
+    "frontSide": "Not including the 13 original colonies, what was the first state in the US?",
+    "backSide": "Vermont"
+}]
